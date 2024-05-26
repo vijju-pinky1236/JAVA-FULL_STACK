@@ -2,5 +2,6 @@ Here i will upload all my java full stack development practice
 
 
 git init
+git add .
 git commit -m "JAVA"
 git push
